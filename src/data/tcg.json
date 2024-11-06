@@ -1,0 +1,280 @@
+[
+  {
+    "id": "sv7-143",
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "hp": "70",
+    "weakness": "Fire",
+    "attacks": [
+      {
+        "name": "Leech Seed",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/sv7/143.png",
+    "bigImage": "https://images.pokemontcg.io/sv7/143_hires.png"
+  },
+  {
+    "id": "svp-48",
+    "name": "Squirtle",
+    "type": "Water",
+    "hp": "70",
+    "weakness": "Lightning",
+    "attacks": [
+      {
+        "name": "Bubble",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/svp/48.png",
+    "bigImage": "https://images.pokemontcg.io/svp/48_hires.png"
+  },
+  {
+    "id": "xy5-2",
+    "name": "Kakuna",
+    "type": "Grass",
+    "hp": "60",
+    "weakness": "Fire",
+    "attacks": [
+      {
+        "name": "Bug Bite",
+        "damage": "20",
+        "energyCost": "1"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/xy5/2.png",
+    "bigImage": "https://images.pokemontcg.io/xy5/2_hires.png"
+  },
+  {
+    "id": "si1-1",
+    "name": "Mew",
+    "type": "Psychic",
+    "hp": "30",
+    "weakness": "Psychic",
+    "attacks": [
+      {
+        "name": "Rainbow Wave",
+        "damage": "20",
+        "energyCost": "1"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/si1/1.png",
+    "bigImage": "https://images.pokemontcg.io/si1/1_hires.png"
+  },
+  {
+    "id": "np-12",
+    "name": "Pikachu",
+    "type": "Lightning",
+    "hp": "50",
+    "weakness": "Fighting",
+    "attacks": [
+      {
+        "name": "Thundershock",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/np/12.png",
+    "bigImage": "https://images.pokemontcg.io/np/12_hires.png"
+  },
+  {
+    "id": "g1-25",
+    "name": "Articuno",
+    "type": "Water",
+    "hp": "120",
+    "weakness": "Metal",
+    "attacks": [
+      {
+        "name": "Freezing Wind",
+        "damage": "100",
+        "energyCost": "4"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/g1/25.png",
+    "bigImage":"https://images.pokemontcg.io/g1/25_hires.png"
+  },
+  {
+    "id": "smp-SM77",
+    "name": "Mewtwo",
+    "type": "Psychic",
+    "hp": "120",
+    "weakness": "Psychic",
+    "attacks": [
+      {
+        "name": "Super Psy Bolt",
+        "damage": "100",
+        "energyCost": "3"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/smp/SM77.png",
+    "bigImage": "https://images.pokemontcg.io/smp/SM77_hires.png"
+  },
+  {
+    "id": "si1-3",
+    "name": "Onix",
+    "type": "Fighting",
+    "hp": "90",
+    "weakness": "Grass",
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "damage": "40",
+        "energyCost": "4"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/si1/3.png",
+    "bigImage": "https://images.pokemontcg.io/si1/3_hires.png"
+  },
+  {
+    "id": "sm115-37",
+    "name": "Cubone",
+    "type": "Fighting",
+    "hp": "60",
+    "weakness": "Grass",
+    "attacks": [
+      {
+        "name": "Sharpshooting",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/sm115/37.png",
+    "bigImage": "https://images.pokemontcg.io/sm115/37_hires.png"
+  },
+  {
+    "id": "sv5-100",
+    "name": "Ekans",
+    "type": "Darkness",
+    "hp": "60",
+    "weakness": "Fighting",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/sv5/100.png",
+    "bigImage": "https://images.pokemontcg.io/sv5/100_hires.png"
+  },
+  {
+    "id": "bwp-BW35",
+    "name": "Meowth",
+    "type": "Colorless",
+    "hp": "60",
+    "weakness": "Fighting",
+    "attacks": [
+      {
+        "name": "Jump On",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/bwp/BW35.png",
+    "bigImage": "https://images.pokemontcg.io/bwp/BW35_hires.png"
+  },
+  {
+    "id": "swsh12pt5-107",
+    "name": "Ditto",
+    "type": "Colorless",
+    "hp": "70",
+    "weakness": "Fighting",
+    "attacks": [
+      {
+        "name": "Sudden Transformation",
+        "damage": "",
+        "energyCost": "4"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/swsh12pt5/107.png",
+    "bigImage": "https://images.pokemontcg.io/swsh12pt5/107_hires.png"
+  },
+  {
+    "id": "bw5-23",
+    "name": "Slowpoke",
+    "type": "Water",
+    "hp": "70",
+    "weakness": "Lightning",
+    "attacks": [
+      {
+        "name": "Shot in the Dark",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/bw5/23.png",
+    "bigImage": "https://images.pokemontcg.io/bw5/23_hires.png"
+  },
+  {
+    "id": "pl4-64",
+    "name": "Gastly",
+    "type": "Psychic",
+    "hp": "50",
+    "weakness": "Darkness",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "10",
+        "energyCost": "1"
+      },
+      {
+        "name": "Suffocating Gas",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/pl4/64.png",
+    "bigImage": "https://images.pokemontcg.io/pl4/64_hires.png"
+  },
+  {
+    "id": "base3-51",
+    "name": "Krabby",
+    "type": "Water",
+    "hp": "50",
+    "weakness":"Lightning",
+    "attacks": [
+      {
+        "name": "Irongrip",
+        "damage": "20",
+        "energyCost": "2"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/base3/51.png",
+    "bigImage": "https://images.pokemontcg.io/base3/51_hires.png"
+  },
+  {
+    "id": "xy8-27",
+    "name": "Goldeen",
+    "type": "Water",
+    "hp": "60",
+    "damgetoitself": "10",
+    "weakness": "Grass",
+    "attacks": [
+      {
+        "name": "Reckless Charge",
+        "damage": "20",
+        "energyCost": "1"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/xy8/27_hires.png",
+    "bigImage": "https://images.pokemontcg.io/xy8/27.png"
+  },
+  {
+    "id": "sm115-13",
+    "name": "Staryu",
+    "type": "Water",
+    "hp": "50",
+    "weakness": "Grass",
+    "attacks": [
+      {
+        "name": "Numbing Water",
+        "damage": "10",
+        "energyCost": "1"
+      }
+    ],
+    "cardImage": "https://images.pokemontcg.io/sm115/13.png",
+    "bigImage": "https://images.pokemontcg.io/sm115/13_hires.png"
+  }
+]
